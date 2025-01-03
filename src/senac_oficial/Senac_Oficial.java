@@ -14,8 +14,7 @@ public class Senac_Oficial {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Essa é a versão teste!");
-        System.out.println("Teste");
+        System.out.println("essa é a versão final!");
     }
     
 }
